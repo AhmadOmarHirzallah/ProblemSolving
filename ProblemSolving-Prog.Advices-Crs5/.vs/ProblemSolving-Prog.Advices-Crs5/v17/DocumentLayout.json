@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CE5E6D-D0B0-4505-986F-059C80E7357C}|Problem5\\Problem5.csproj|e:\\work\\problemsolving\\problemsolving-prog.advices-crs5\\problem5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CE5E6D-D0B0-4505-986F-059C80E7357C}|Problem5\\Problem5.csproj|solutionrelative:problem5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1420C3-C27E-43FD-90C7-DFFB4950D0EE}|Problem4\\Problem4.csproj|e:\\work\\problemsolving\\problemsolving-prog.advices-crs5\\problem4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1420C3-C27E-43FD-90C7-DFFB4950D0EE}|Problem4\\Problem4.csproj|solutionrelative:problem4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6CA74B-0260-46CC-91DA-D72B71F11D6F}|Problem2\\Problem2.csproj|e:\\work\\problemsolving\\problemsolving-prog.advices-crs5\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6CA74B-0260-46CC-91DA-D72B71F11D6F}|Problem2\\Problem2.csproj|solutionrelative:problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E337B0-452A-4F8E-9741-19C4307029C5}|Problem3\\Problem3.csproj|e:\\work\\problemsolving\\problemsolving-prog.advices-crs5\\problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E337B0-452A-4F8E-9741-19C4307029C5}|Problem3\\Problem3.csproj|solutionrelative:problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E905F53-85F7-456F-AC4D-4B46B65508A7}|Problem1\\Problem1.csproj|e:\\work\\problemsolving\\problemsolving-prog.advices-crs5\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E905F53-85F7-456F-AC4D-4B46B65508A7}|Problem1\\Problem1.csproj|solutionrelative:problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem5\\Program.cs",
+              "RelativeDocumentMoniker": "Problem5\\Program.cs",
+              "ToolTip": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem5\\Program.cs",
+              "RelativeToolTip": "Problem5\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:34:02.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem4\\Program.cs",
+              "RelativeDocumentMoniker": "Problem4\\Program.cs",
+              "ToolTip": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem4\\Program.cs",
+              "RelativeToolTip": "Problem4\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:22:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem2\\Program.cs",
+              "RelativeDocumentMoniker": "Problem2\\Program.cs",
+              "ToolTip": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem2\\Program.cs",
+              "RelativeToolTip": "Problem2\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:40:33.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem3\\Program.cs",
+              "RelativeDocumentMoniker": "Problem3\\Program.cs",
+              "ToolTip": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem3\\Program.cs",
+              "RelativeToolTip": "Problem3\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:09:16.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem1\\Program.cs",
+              "RelativeDocumentMoniker": "Problem1\\Program.cs",
+              "ToolTip": "E:\\Work\\ProblemSolving\\ProblemSolving-Prog.Advices-Crs5\\Problem1\\Program.cs",
+              "RelativeToolTip": "Problem1\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAD8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:07:54.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

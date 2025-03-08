@@ -1,0 +1,7 @@
+E:\Work\ProblemSolving\ProblemSolving-Prog.Advices-Crs5\Problem2\bin\Debug\Problem2.exe.config
+E:\Work\ProblemSolving\ProblemSolving-Prog.Advices-Crs5\Problem2\bin\Debug\Problem2.exe
+E:\Work\ProblemSolving\ProblemSolving-Prog.Advices-Crs5\Problem2\bin\Debug\Problem2.pdb
+E:\Work\ProblemSolving\ProblemSolving-Prog.Advices-Crs5\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
+E:\Work\ProblemSolving\ProblemSolving-Prog.Advices-Crs5\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+E:\Work\ProblemSolving\ProblemSolving-Prog.Advices-Crs5\Problem2\obj\Debug\Problem2.exe
+E:\Work\ProblemSolving\ProblemSolving-Prog.Advices-Crs5\Problem2\obj\Debug\Problem2.pdb
