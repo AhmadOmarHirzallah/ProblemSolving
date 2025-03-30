@@ -1,0 +1,17 @@
+gnore Visual Studio system folders
+
+.vs/
+
+bin/
+
+obj/
+
+*.user
+
+*.suo
+
+*.vsidx
+
+*.cache
+
+
