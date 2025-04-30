@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProblemSolvingTemplate/1.0.0": {
+        "dependencies": {
+          "Problem3_WinForms": "1.0.0"
+        },
+        "runtime": {
+          "ProblemSolvingTemplate.dll": {}
+        }
+      },
+      "Problem3_WinForms/1.0.0": {
+        "runtime": {
+          "Problem3_WinForms.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProblemSolvingTemplate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem3_WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

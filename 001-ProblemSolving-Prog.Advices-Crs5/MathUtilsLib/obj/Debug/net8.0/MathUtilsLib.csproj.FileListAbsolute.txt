@@ -1,0 +1,12 @@
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\bin\Debug\net8.0\MathUtilsLib.deps.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\bin\Debug\net8.0\MathUtilsLib.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\bin\Debug\net8.0\MathUtilsLib.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\MathUtilsLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\MathUtilsLib.AssemblyInfoInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\MathUtilsLib.AssemblyInfo.cs
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\MathUtilsLib.csproj.CoreCompileInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\MathUtilsLib.sourcelink.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\MathUtilsLib.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\refint\MathUtilsLib.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\MathUtilsLib.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\MathUtilsLib\obj\Debug\net8.0\ref\MathUtilsLib.dll

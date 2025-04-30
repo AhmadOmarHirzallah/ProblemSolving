@@ -1,0 +1,17 @@
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\bin\Debug\net8.0-windows\Problem5_WinForms.exe
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\bin\Debug\net8.0-windows\Problem5_WinForms.deps.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\bin\Debug\net8.0-windows\Problem5_WinForms.runtimeconfig.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\bin\Debug\net8.0-windows\Problem5_WinForms.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\bin\Debug\net8.0-windows\Problem5_WinForms.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.frmProblem5.resources
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.csproj.GenerateResource.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.AssemblyInfoInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.AssemblyInfo.cs
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.csproj.CoreCompileInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.sourcelink.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\refint\Problem5_WinForms.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\Problem5_WinForms.genruntimeconfig.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem5_WinForms\obj\Debug\net8.0-windows\ref\Problem5_WinForms.dll
