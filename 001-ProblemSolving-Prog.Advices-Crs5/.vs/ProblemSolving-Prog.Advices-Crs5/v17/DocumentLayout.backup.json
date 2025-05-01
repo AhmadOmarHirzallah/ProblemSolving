@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AFEB124-2526-4F73-8577-5CEC91FF8F5A}|Problem5_WinForms\\Problem5_WinForms.csproj|e:\\2-problemsolving\\001-problemsolving-prog.advices-crs5\\problem5_winforms\\frmproblem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AFEB124-2526-4F73-8577-5CEC91FF8F5A}|Problem5_WinForms\\Problem5_WinForms.csproj|solutionrelative:problem5_winforms\\frmproblem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFDAE2AC-F5AA-4756-9D73-379E05CBE1AC}|Problem9_Reverse Digits and Print Them in Order\\Problem9_Reverse Digits and Print Them in Order.csproj|e:\\2-problemsolving\\001-problemsolving-prog.advices-crs5\\problem9_reverse digits and print them in order\\reversedigitsandprintorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDAE2AC-F5AA-4756-9D73-379E05CBE1AC}|Problem9_Reverse Digits and Print Them in Order\\Problem9_Reverse Digits and Print Them in Order.csproj|solutionrelative:problem9_reverse digits and print them in order\\reversedigitsandprintorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AFEB124-2526-4F73-8577-5CEC91FF8F5A}|Problem5_WinForms\\Problem5_WinForms.csproj|e:\\2-problemsolving\\001-problemsolving-prog.advices-crs5\\problem5_winforms\\frmproblem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6AFEB124-2526-4F73-8577-5CEC91FF8F5A}|Problem5_WinForms\\Problem5_WinForms.csproj|solutionrelative:problem5_winforms\\frmproblem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EFDAE2AC-F5AA-4756-9D73-379E05CBE1AC}|Problem9_Reverse Digits and Print Them in Order\\Problem9_Reverse Digits and Print Them in Order.csproj|e:\\2-problemsolving\\001-problemsolving-prog.advices-crs5\\problem9_reverse digits and print them in order\\reversedigitsandprintorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFDAE2AC-F5AA-4756-9D73-379E05CBE1AC}|Problem9_Reverse Digits and Print Them in Order\\Problem9_Reverse Digits and Print Them in Order.csproj|solutionrelative:problem9_reverse digits and print them in order\\reversedigitsandprintorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F105C6-F74B-4D78-A5B9-A17413C07355}|MathUtilsLib\\MathUtilsLib.csproj|e:\\2-problemsolving\\001-problemsolving-prog.advices-crs5\\mathutilslib\\mathutilslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F105C6-F74B-4D78-A5B9-A17413C07355}|MathUtilsLib\\MathUtilsLib.csproj|solutionrelative:mathutilslib\\mathutilslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmProblem5.cs [Design]",
-              "DocumentMoniker": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\Problem5_WinForms\\frmProblem5.cs",
-              "RelativeDocumentMoniker": "Problem5_WinForms\\frmProblem5.cs",
-              "ToolTip": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\Problem5_WinForms\\frmProblem5.cs [Design]",
-              "RelativeToolTip": "Problem5_WinForms\\frmProblem5.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "ReverseDigitsAndPrintOrder.cs",
+              "DocumentMoniker": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\Problem9_Reverse Digits and Print Them in Order\\ReverseDigitsAndPrintOrder.cs",
+              "RelativeDocumentMoniker": "Problem9_Reverse Digits and Print Them in Order\\ReverseDigitsAndPrintOrder.cs",
+              "ToolTip": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\Problem9_Reverse Digits and Print Them in Order\\ReverseDigitsAndPrintOrder.cs",
+              "RelativeToolTip": "Problem9_Reverse Digits and Print Them in Order\\ReverseDigitsAndPrintOrder.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T21:31:13.364Z",
+              "WhenOpened": "2025-05-01T11:24:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReverseDigitsAndPrintOrder.cs [Design]",
+              "DocumentMoniker": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\Problem9_Reverse Digits and Print Them in Order\\ReverseDigitsAndPrintOrder.cs",
+              "RelativeDocumentMoniker": "Problem9_Reverse Digits and Print Them in Order\\ReverseDigitsAndPrintOrder.cs",
+              "ToolTip": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\Problem9_Reverse Digits and Print Them in Order\\ReverseDigitsAndPrintOrder.cs [Design]",
+              "RelativeToolTip": "Problem9_Reverse Digits and Print Them in Order\\ReverseDigitsAndPrintOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:24:04.854Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmProblem5.cs",
-              "DocumentMoniker": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\Problem5_WinForms\\frmProblem5.cs",
-              "RelativeDocumentMoniker": "Problem5_WinForms\\frmProblem5.cs",
-              "ToolTip": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\Problem5_WinForms\\frmProblem5.cs",
-              "RelativeToolTip": "Problem5_WinForms\\frmProblem5.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAsAAAALAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MathUtilsLib.cs",
+              "DocumentMoniker": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\MathUtilsLib\\MathUtilsLib.cs",
+              "RelativeDocumentMoniker": "MathUtilsLib\\MathUtilsLib.cs",
+              "ToolTip": "E:\\2-ProblemSolving\\001-ProblemSolving-Prog.Advices-Crs5\\MathUtilsLib\\MathUtilsLib.cs",
+              "RelativeToolTip": "MathUtilsLib\\MathUtilsLib.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA2wEUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T21:27:09.4Z",
+              "WhenOpened": "2025-05-01T10:36:23.935Z",
               "EditorCaption": ""
             }
           ]

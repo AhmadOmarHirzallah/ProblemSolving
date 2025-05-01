@@ -3,6 +3,85 @@ using System.Runtime.CompilerServices;
 
 namespace MathUtilsLib
 {
+	public static class Utils
+	{
+		public static int countDigitFrequency( int number, int digit )
+		{
+			// New Better Way
+			int frequencyCount = 0;
+			int lastDigit = 0;
+
+			while (number > 0)
+			{
+				lastDigit = number % 10;
+				if (lastDigit == digit)
+					frequencyCount++;
+				number /= 10;
+			}
+			return ( frequencyCount );
+
+
+			/* // Old Way
+			int frequency = 0;
+			string numberStr = number.ToString( );
+			char digitChar = digit.ToString( )[0];
+
+			foreach (char aDigit in numberStr)
+			{
+				if (aDigit == digitChar)
+					frequency++;
+			}
+			return ( frequency );
+			*/
+		}
+
+		public static int calcSumOfDigits( int number )
+		{
+			int sum = 0;
+
+			while (number > 0)
+			{
+				sum += number % 10;
+				number /= 10;
+			}
+			return ( sum );
+		}
+
+		public static Dictionary<int, int> countDigitsFrequency( int number )
+		{
+			Dictionary<int, int> frequencyDict = new Dictionary<int, int>( );
+
+			// Loop through digits (0-9)
+			for (int digit = 0; digit <= 9; digit++)
+			{
+				// Reuse the countDigitFrequency function for each digit from 0 to 9
+				int digitFrequency = countDigitFrequency( number, digit );
+
+				// Only add to dictionary if the digit frequency is greater than 0
+				if (digitFrequency > 0)
+					frequencyDict[digit] = digitFrequency;
+			}
+
+			return ( frequencyDict );
+		}
+
+
+		// Function: Reverse the Digits of the Number
+		public static int reverseNumber( int number )
+		{
+			int reversedNumber = 0;
+
+			while (number > 0)
+			{
+				int lastDigit = number % 10;
+				reversedNumber = reversedNumber * 10 + lastDigit;
+				number /= 10;
+			}
+			return reversedNumber;
+		}
+
+	}
+
 	public static class NumberTheory
 	{
 		public enum e_PrimeNotPrime
@@ -83,8 +162,6 @@ namespace MathUtilsLib
             return (sum == nbr) ? (e_PerfectOrNot.PERFECT) : (e_PerfectOrNot.NOT_PERFECT); 
         }
 
-
-
 		public static bool isPerfect( int number )
 		{
 			return ( checkIsPerfect(number) == e_PerfectOrNot.PERFECT ) ? ( true ) : ( false ); 
@@ -107,6 +184,8 @@ namespace MathUtilsLib
 			return ( checkIsPrime(number) == e_PrimeNotPrime.PRIME ) ? ( true ) : ( false ); 
 		}
 
+
+
 	}
 
 	public static class SequenceGenerators
@@ -122,7 +201,6 @@ namespace MathUtilsLib
             }
             return ( perfectNumbers ); 
         }
-
 
 		public static List<int> GetPerfectNumbersUpTo( int limit )
         {

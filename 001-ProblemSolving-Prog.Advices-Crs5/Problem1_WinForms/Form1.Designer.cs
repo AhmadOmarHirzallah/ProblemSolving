@@ -50,7 +50,7 @@
 			panel1.Dock = DockStyle.Top;
 			panel1.Location = new Point( 0, 0 );
 			panel1.Name = "panel1";
-			panel1.Size = new Size( 1746, 100 );
+			panel1.Size = new Size( 1921, 100 );
 			panel1.TabIndex = 0;
 			// 
 			// label2
@@ -88,7 +88,7 @@
 			panel2.Dock = DockStyle.Left;
 			panel2.Location = new Point( 0, 100 );
 			panel2.Name = "panel2";
-			panel2.Size = new Size( 180, 589 );
+			panel2.Size = new Size( 198, 589 );
 			panel2.TabIndex = 1;
 			// 
 			// btnReset
@@ -102,7 +102,7 @@
 			btnReset.Location = new Point( 0, 293 );
 			btnReset.Margin = new Padding( 3, 3, 3, 15 );
 			btnReset.Name = "btnReset";
-			btnReset.Size = new Size( 180, 293 );
+			btnReset.Size = new Size( 198, 293 );
 			btnReset.TabIndex = 1;
 			btnReset.Text = "Rest";
 			btnReset.UseVisualStyleBackColor = false;
@@ -120,7 +120,7 @@
 			btnGenrateTable.Location = new Point( 0, 0 );
 			btnGenrateTable.Margin = new Padding( 3, 3, 3, 15 );
 			btnGenrateTable.Name = "btnGenrateTable";
-			btnGenrateTable.Size = new Size( 180, 293 );
+			btnGenrateTable.Size = new Size( 198, 293 );
 			btnGenrateTable.TabIndex = 0;
 			btnGenrateTable.Text = "Generate Multiplication Table";
 			btnGenrateTable.UseVisualStyleBackColor = false;
@@ -130,9 +130,9 @@
 			// 
 			panel3.BackColor = Color.FromArgb( 207, 203, 196 );
 			panel3.Controls.Add( dgMultTableData );
-			panel3.Location = new Point( 180, 100 );
+			panel3.Location = new Point( 198, 100 );
 			panel3.Name = "panel3";
-			panel3.Size = new Size( 1605, 586 );
+			panel3.Size = new Size( 1766, 586 );
 			panel3.TabIndex = 2;
 			// 
 			// dgMultTableData
@@ -142,14 +142,14 @@
 			dgMultTableData.Location = new Point( 0, 0 );
 			dgMultTableData.Name = "dgMultTableData";
 			dgMultTableData.RowHeadersWidth = 62;
-			dgMultTableData.Size = new Size( 1605, 586 );
+			dgMultTableData.Size = new Size( 1766, 586 );
 			dgMultTableData.TabIndex = 0;
 			// 
 			// Form1
 			// 
-			AutoScaleDimensions = new SizeF( 10F, 25F );
+			AutoScaleDimensions = new SizeF( 11F, 25F );
 			AutoScaleMode = AutoScaleMode.Font;
-			ClientSize = new Size( 1746, 689 );
+			ClientSize = new Size( 1921, 689 );
 			Controls.Add( panel3 );
 			Controls.Add( panel2 );
 			Controls.Add( panel1 );

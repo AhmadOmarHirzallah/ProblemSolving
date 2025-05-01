@@ -1,0 +1,21 @@
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\bin\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.exe
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\bin\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.deps.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\bin\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.runtimeconfig.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\bin\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\bin\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\bin\Debug\net8.0-windows\MathUtilsLib.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\bin\Debug\net8.0-windows\MathUtilsLib.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.csproj.AssemblyReference.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse_Digits_and_Print_Them_in_Order.ReverseDigitsAndPrintOrder.resources
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.csproj.GenerateResource.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.AssemblyInfoInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.AssemblyInfo.cs
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.csproj.CoreCompileInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.sourcelink.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9.BF016BC6.Up2Date
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\refint\Problem9_Reverse Digits and Print Them in Order.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\Problem9_Reverse Digits and Print Them in Order.genruntimeconfig.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem9_Reverse Digits and Print Them in Order\obj\Debug\net8.0-windows\ref\Problem9_Reverse Digits and Print Them in Order.dll

@@ -1,0 +1,17 @@
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\bin\Debug\net8.0-windows\Problem6_SumOfDigits.exe
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\bin\Debug\net8.0-windows\Problem6_SumOfDigits.deps.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\bin\Debug\net8.0-windows\Problem6_SumOfDigits.runtimeconfig.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\bin\Debug\net8.0-windows\Problem6_SumOfDigits.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\bin\Debug\net8.0-windows\Problem6_SumOfDigits.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.Frm_6_SumOfDigits.resources
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.csproj.GenerateResource.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.AssemblyInfoInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.AssemblyInfo.cs
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.csproj.CoreCompileInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.sourcelink.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\refint\Problem6_SumOfDigits.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\Problem6_SumOfDigits.genruntimeconfig.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem6_SumOfDigits\obj\Debug\net8.0-windows\ref\Problem6_SumOfDigits.dll

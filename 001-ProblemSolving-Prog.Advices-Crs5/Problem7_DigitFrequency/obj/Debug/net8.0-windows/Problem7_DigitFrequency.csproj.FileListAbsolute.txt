@@ -1,0 +1,17 @@
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\bin\Debug\net8.0-windows\Problem7_DigitFrequency.exe
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\bin\Debug\net8.0-windows\Problem7_DigitFrequency.deps.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\bin\Debug\net8.0-windows\Problem7_DigitFrequency.runtimeconfig.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\bin\Debug\net8.0-windows\Problem7_DigitFrequency.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\bin\Debug\net8.0-windows\Problem7_DigitFrequency.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.frm_7_DigitFrequency.resources
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.csproj.GenerateResource.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.AssemblyInfoInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.AssemblyInfo.cs
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.csproj.CoreCompileInputs.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.sourcelink.json
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\refint\Problem7_DigitFrequency.dll
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.pdb
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\Problem7_DigitFrequency.genruntimeconfig.cache
+E:\2-ProblemSolving\001-ProblemSolving-Prog.Advices-Crs5\Problem7_DigitFrequency\obj\Debug\net8.0-windows\ref\Problem7_DigitFrequency.dll
